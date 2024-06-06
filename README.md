@@ -5,6 +5,7 @@
 2. metadata_filtered_USA_230701_231130.txt.zip
    メインのメタデータファイルであるインプット
 
+https://colab.research.google.com/drive/1-4ZP70zQTcQBAJeahSJ7V1GS7akta5BA?usp=sharing
 ⚫︎手順
 
 Step 1 必要なパッケージをインストール
