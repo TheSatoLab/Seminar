@@ -33,10 +33,10 @@ Step 2 ダウンロードしたデータを解凍
 zstd -d metadata.tsv.zst
 ```
 Step 3 必要があれば、R をPCにインストール
-- Rのサイト、[CRAN（Comprehensive R Archive Network）](https://cran.r-project.org/)を開き、PCのOS、バージョンに合った合ったインストーラをダウンロードし、インストール
+- Rのサイト、[CRAN（Comprehensive R Archive Network）](https://cran.r-project.org/)を開き、PCのOS、バージョンに合ったインストーラをダウンロードし、インストール
 
 Step 4 必要があれば、R studio をPCにインストール
-- R Studioのサイト、[Posit社のサイト](https://posit.co/download/rstudio-desktop/)を開き、PCのOS、バージョンに合った合ったインストーラをダウンロードし、インストール
+- R Studioのサイト、[Posit社のサイト](https://posit.co/download/rstudio-desktop/)を開き、PCのOS、バージョンに合ったインストーラをダウンロードし、インストール
 
 Step 5 必要なパッケージをインストール
 - Rのコンソール上で下記コマンドを入力してパッケージをインストール
