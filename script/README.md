@@ -77,7 +77,7 @@ install.packages("cmdstanr", repos = c('https://stan-dev.r-universe.dev', getOpt
 参考：[CmdStanR](https://mc-stan.org/cmdstanr/)
 
 Step 2 CmdStanをインストール
-- cmdstan（Stanを実装する本体的なソフトウェア）をインストール
+- cmdstan（Stanを実装するソフトウェア）をインストール
 - Rのコンソール上で下記コマンドを入力してパッケージをインストール
 ```R
 check_cmdstan_toolchain()
